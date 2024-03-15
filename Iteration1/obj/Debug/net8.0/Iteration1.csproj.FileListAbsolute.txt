@@ -1,0 +1,14 @@
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfoInputs.cache
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.AssemblyInfo.cs
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\ridow\source\repos\Iteration1\bin\Debug\net8.0\Iteration1.exe
+C:\Users\ridow\source\repos\Iteration1\bin\Debug\net8.0\Iteration1.deps.json
+C:\Users\ridow\source\repos\Iteration1\bin\Debug\net8.0\Iteration1.runtimeconfig.json
+C:\Users\ridow\source\repos\Iteration1\bin\Debug\net8.0\Iteration1.dll
+C:\Users\ridow\source\repos\Iteration1\bin\Debug\net8.0\Iteration1.pdb
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.dll
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\refint\Iteration1.dll
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.pdb
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\Iteration1.genruntimeconfig.cache
+C:\Users\ridow\source\repos\Iteration1\obj\Debug\net8.0\ref\Iteration1.dll
